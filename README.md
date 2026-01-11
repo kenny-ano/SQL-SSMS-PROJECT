@@ -70,18 +70,6 @@ The following analyses were carried out:
 - Unique customer count per category  
 - Order distribution by shift (Morning, Afternoon, Evening)
 
----
-
-## Project Screenshots
-
-### Dataset Import in SSMS
-![Dataset Import](images/dataset_import.png)
-
-### Data Cleaning Query
-![Data Cleaning](images/data_cleaning.png)
-
-### Sales Analysis Query Results
-![Sales Analysis](images/sales_analysis.png)
 
 ---
 
